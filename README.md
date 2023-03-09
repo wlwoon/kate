@@ -1,0 +1,2 @@
+# kate
+stupid  project
